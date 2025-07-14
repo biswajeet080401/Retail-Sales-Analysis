@@ -35,4 +35,30 @@ The dataset consists of weekly sales data from multiple stores and departments o
 
 ### 🧾 Department Analysis
 - Departments 92 and 95 recorded the highest total sales  
-- Over 90 unique departments con
+- Over 90 unique departments contribute to total sales  
+
+### 📈 Yearly Trends
+- 2011 showed peak annual sales  
+- Slight drop in sales observed in 2012  
+
+### 🌍 Economic Indicators
+- CPI increased steadily (inflationary pressure)  
+- Unemployment declined over the years  
+- Fuel prices and temperature had no strong correlation with sales  
+
+### 🏷️ Markdown Analysis
+- `MarkDown1` and `MarkDown4` showed weak positive correlation with sales  
+- Other markdowns had negligible impact on performance  
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Python (Pandas, NumPy)  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
+
+---
+
+## ✅ Conclusion
+This project demonstrates how EDA can uncover valuable insights from retail data. The findings help guide better business decisions related to promotions, inventory management, and store operations.
